@@ -9,6 +9,7 @@ public class Program01 {
 
 		String str = "Shubham Ganesh Yerane Om Nagar";
 		int count = 0;
+		System.out.println("welcome to java")
 		
 		for (int i = 0; i < str.length(); i++) {
 			if(str.charAt(i) != ' ')

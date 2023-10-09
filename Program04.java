@@ -11,6 +11,7 @@ public class Program04 {
 
 		String str1 = "Brag";
 		String str2 = "Grab";
+		System.out.println("welcome to java")
 
 		str1 = str1.toLowerCase();
 		str2 = str2.toLowerCase();
